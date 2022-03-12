@@ -15,4 +15,4 @@ just add the following text into your "host" file which is located at "C:\Window
 0.0.0.0 googleads4.g.doubleclick.net
 ````
 
--> b.t.w u neeed admin privileges.
+-> b.t.w u need admin privileges.
